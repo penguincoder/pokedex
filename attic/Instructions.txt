@@ -1,0 +1,13 @@
+PokeDex v 2.0
+
+First you need to have a Java runtime/sd kit installed. Get this from http://java.sun.com
+
+You need to set your paths, and then run
+
+java -jar PokeDex.jar
+
+At the command prompt. Case matters. If you are really good, you can make a shortcut to this by putting
+
+"%javapath&\bin\java -jar PokeDex.jar"
+
+As the program to run, where %javapath% is the path to the installed java kit. You should also set the start in folder to wherever you keep the *.jar and *.pkmn files.
